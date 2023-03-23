@@ -1,3 +1,3 @@
-# Projetos Prórpios Desenvolvidos em Linguagem C#
+# Projetos Próprios Desenvolvidos em Linguagem C#
 
 ## a
