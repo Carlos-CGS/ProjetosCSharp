@@ -1,4 +1,4 @@
-# Projetos Próprios Desenvolvidos em Linguagem C#
+# Projetos Desenvolvidos em Linguagem C#
 
 ✅ [API - CSharp - C#](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/API-CSharp) | Criação de uma API para conectar o código C# de console a um banco de dados externo SQL-Server, utilizando verbos HTTP, criando Controllers, Entities, e Migrations. Obs.:Projeto desolvolvido enquanto acompanhava o BootCamp da DIO.
 
