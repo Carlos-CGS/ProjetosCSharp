@@ -1,4 +1,4 @@
-# Código C# para criar uma API
+# Código C# para criação de uma API
 
 > API criada junto das explicações do curso de C# que estava fazendo junto a DIO.
 
