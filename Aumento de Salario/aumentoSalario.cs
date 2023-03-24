@@ -7,6 +7,7 @@
     double novoSalario = 0.00; 
     double percentual = 0.00; 
   
+    Console.WriteLine("Digite o salário atual...");
     salario = Convert.ToDouble(Console.ReadLine()); 
    
     if( salario < 0.0 ) { 
