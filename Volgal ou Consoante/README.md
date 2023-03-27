@@ -4,4 +4,4 @@
 
 ✅ Após, ele verifica através de estruturas de controle de fluxo se a letra inserida é volga ou consoante;
 
-✅ e Imprimi uma mensagem ao usuário.
+✅ Imprimi mensagem ao usuário.
