@@ -8,5 +8,7 @@
 
 ✅ [POO - Classes e Relacionamentos](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/POO%20-%20Classes%20e%20Relacionamentos%20-%20Hotel%20X%20Hospede) |  Criar um sistema de hotel (hospedes e reservas).
 
+✅ [Percorrendo um Array](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/Percorrendo%20Array) | Código C# que percorre um Array de cinco posições utilizando o for e utilizando o foreach.
+
 ✅ [Sistema Estacionamento](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/Sistema%20Estacionamento) | Controle de lotação, e valor do período estacionado.
 
