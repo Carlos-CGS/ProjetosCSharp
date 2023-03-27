@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Calculadora Simples com Interpolação Variavel/1.0.0": {
+        "runtime": {
+          "Calculadora Simples com Interpolação Variavel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculadora Simples com Interpolação Variavel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
