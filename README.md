@@ -2,7 +2,9 @@
 
 ✅ [API - CSharp - C#](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/API-CSharp) | Criação de uma API para conectar o código C# de console a um banco de dados externo SQL-Server, utilizando verbos HTTP, criando Controllers, Entities, e Migrations. Obs.:Projeto desolvolvido enquanto acompanhava o BootCamp da DIO.
 
-[Calculadora Simples com Interpolação de Variáveis](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/Calculadora%20Simples%20com%20Interpola%C3%A7%C3%A3o%20Variavel) | Código C# que cria uma classe calculadora, e em no arquivo (program), instancia a classe, passa os parêmetros para que a classe calculadora execute os cálculos e faça a interpolação das variáveis.
+✅ [Calculadora Simples com Interpolação de Variáveis](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/Calculadora%20Simples%20com%20Interpola%C3%A7%C3%A3o%20Variavel) | Código C# que cria uma classe calculadora, e em no arquivo (program), instancia a classe, passa os parêmetros para que a classe calculadora execute os cálculos e faça a interpolação das variáveis.
+
+✅ [If Ternário](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/If%20Tern%C3%A1rio) | Código C# que utiliza a variável booleana ehPar que fazer um If ternário e imprimir se o numeral é par ou impar.
 
 ✅ [Aumento de Salário](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/Aumento%20de%20Salario) | Código C# que enquadra o salário em uma das cinco categorias de aumento de salario pré estabelecidas e apresenta o novoSalario, reajuste, e porcentagem.
 
