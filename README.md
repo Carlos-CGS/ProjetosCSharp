@@ -4,7 +4,7 @@
 
 ✅ [Calculadora Simples com Interpolação de Variáveis](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/Calculadora%20Simples%20com%20Interpola%C3%A7%C3%A3o%20Variavel) | Código C# que cria uma classe calculadora, e em no arquivo (program), instancia a classe, passa os parêmetros para que a classe calculadora execute os cálculos e faça a interpolação das variáveis.
 
-✅ [Dicionário em C# - Chave X Valor](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/Dicion%C3%A1rio%20em%20C%23) | 
+✅ [Dicionário em C# - Chave X Valor](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/Dicion%C3%A1rio%20em%20C%23) | Criação de um Dicionário, onde as chaves são as siglas dos estados e os valores atribuidos a estas chaves são os nomes dos estados por extenso. Métodos (.Add), (.Remove), (ContainsKey).
 
 ✅ [If Ternário](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/If%20Tern%C3%A1rio) | Código C# que utiliza a variável booleana ehPar que fazer um If ternário e imprimir se o numeral é par ou impar.
 
