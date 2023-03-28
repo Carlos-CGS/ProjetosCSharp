@@ -1,6 +1,6 @@
 # Criação de um Dictionary
 
-- Dicionário é um Array onde os elemementos são armazenados em estrutura ( Chave X Valor ):
+✅ Dicionário é um Array onde os elemementos são armazenados em estrutura ( Chave X Valor ):
 
 ✅ Criação de um Dicionário, onde as chaves são as siglas dos estados e os valores atribuidos a estas chaves são os nomes dos estados por extenso. Métodos (.Add), (.Remove), (ContainsKey).
 
