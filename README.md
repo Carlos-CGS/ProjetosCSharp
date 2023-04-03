@@ -24,5 +24,5 @@
 
 ✅ [Vendas - Utilizando Booleano](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/Vendas%20Utilizando%20Booleano) | Código que simula um controle de estoque de vendas, utilizando a variável booleana possivelvenda.
 
-✅ [Volgal ou Consoante](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/Volgal%20ou%20Consoante) | Código C# que solicita ao usuário uma letra e imprimi uma mensagem informando se a letra digitada é volgal ou consoante.
+✅ [Volgal ou Consoante](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/Volgal%20ou%20Consoante) | Solicita ao usuário uma letra e imprimi uma mensagem informando se a letra digitada é volgal ou consoante.
 
