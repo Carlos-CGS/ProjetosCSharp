@@ -1,4 +1,4 @@
-#Tratamento de Exceção em C# ( Try / Catch )
+# Tratamento de Exceção em C# ( Try / Catch )
 
 - Este trecho de código C# exemplifica como é feito o tratamento de exceções, onde elas vão subindo de nível, até que sejam tratadas na origem.
 - A exceção deste exemplo foi forçada no nível do método 4, porém só é tratada no primeiro nível;
