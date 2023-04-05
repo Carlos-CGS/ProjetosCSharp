@@ -8,6 +8,8 @@
 
 ✅ [If Ternário](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/If%20Tern%C3%A1rio) | Código C# que utiliza a variável booleana ehPar que fazer um If ternário e imprimir se o numeral é par ou impar.
 
+✅ [Média Alunos](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/MediaAlunos) | Trecho de Código C# que solciita o nome do aluno, e notas da prova, teste e trabalho e faz a média que se for menor que 70, imprime mensagem de reprovação, e caso seja maior que 70, irmprimi mensagemd e aprovação, concatenada com o nome do aluno e média calculada.
+
 ✅ [Aumento de Salário](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/Aumento%20de%20Salario) | Código C# que enquadra o salário em uma das cinco categorias de aumento de salario pré estabelecidas e apresenta o novoSalario, reajuste, e porcentagem.
 
  ✅ [POO - Classes Abastratas e Especificas](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/POO%20-%20Classes%20Astrata%20e%20Especifica%20-%20Nokia%20X%20Apple) | Criar classes de um celular (Apple e Nokia).
