@@ -2,6 +2,8 @@
 
 ✅ [API - CSharp - C#](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/API-CSharp) | Criação de uma API para conectar o código C# de console a um banco de dados externo SQL-Server, utilizando verbos HTTP, criando Controllers, Entities, e Migrations. Obs.:Projeto desolvolvido enquanto acompanhava o BootCamp da DIO.
 
+✅ [Desafio de Código C# - Básico - Pottential - DIO](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/Desafio%20de%20C%C3%B3digo%20Intermediario%20C%23%20-%20Pottential%20-%20DIO) | Exemplos de três Desafios de Código propostos e resolvidos em um BootCamp da DIO.
+
 ✅ [Calculadora Simples com Interpolação de Variáveis](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/Calculadora%20Simples%20com%20Interpola%C3%A7%C3%A3o%20Variavel) | Código C# que cria uma classe calculadora, e em no arquivo (program), instancia a classe, passa os parêmetros para que a classe calculadora execute os cálculos e faça a interpolação das variáveis.
 
 ✅ [Dicionário em C# - Chave X Valor](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/Dicion%C3%A1rio%20em%20C%23) | Criação de um Dicionário, onde as chaves são as siglas dos estados e os valores atribuidos a estas chaves são os nomes dos estados por extenso. Métodos (.Add), (.Remove), (ContainsKey).
