@@ -15,7 +15,7 @@ A saída deverá retornar o número que aparece o maior número de vezes na sua 
 Entrada = 3, 7, 5, 7
 Saida = 7
 
-## Aumento de Salário
+## Desafio 2 - Aumento de Salário
 
 - A empresa ABC resolveu conceder um aumento de salários a seus funcionários de acordo com a tabela abaixo:
  
