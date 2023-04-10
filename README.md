@@ -4,7 +4,7 @@
 
 ✅ [Calculadora Simples com Interpolação de Variáveis](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/Calculadora%20Simples%20com%20Interpola%C3%A7%C3%A3o%20Variavel) | Código C# que cria uma classe calculadora, e em no arquivo (program), instancia a classe, passa os parêmetros para que a classe calculadora execute os cálculos e faça a interpolação das variáveis.
 
-✅ [Desafio de Código C# - Intermediário - Pottential - DIO](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/Desafio%20de%20C%C3%B3digo%20Intermediario%20C%23%20-%20Pottential%20-%20DIO) | Exemplos de três Desafios de Código propostos e resolvidos em um BootCamp da DIO.
+✅ [Desafio de Código C# - Intermediário - Pottential - DIO](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/Desafio%20de%20C%C3%B3digo%20Intermediario%20C%23%20-%20Pottential%20-%20DIO) | Exemplos de três Desafios de Código resolvidos em um BootCamp da DIO.
 
 ✅ [Desafio de Código C# - Básico - Pottential - DIO](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/Desafios%20de%20C%C3%B3digo%20B%C3%A1sico%20C%23%20-%20Pottencial%20-%20DIO) | Exemplos de três Desafios de Código propostos e resolvidos em um BootCamp da DIO.
 
