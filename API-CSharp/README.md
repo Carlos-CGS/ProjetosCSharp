@@ -1,6 +1,6 @@
 # Código C# para criação de uma API
 
-✅ API criada junto das explicações do curso de C# que estava fazendo junto a DIO.
+✅ API criada enquanto fazia um BOOtCamp sobre C# junto a plataforma da DIO.
 
 ✅ Criação de Controllers, Migrations, etc, que conectam o código a um banco de dados SQL-Server.
 
