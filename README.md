@@ -28,6 +28,8 @@
 
 ✅ [Tratamento de Exceção - Try / Catch](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/Tratamento_Exce%C3%A7%C3%A3o) | Tratamento de exceções utilizando o Try/Catch, onde a exceção vai subindo de nível, até ser tratada na origem.
 
+✅ [Validador de CPF C#](https://github.com/Carlos-CGS/ProjetosCSharp/blob/main/Validador_CPF_C%23/ValidadorCPFCSharp.cs) | Validador de CPF utilizando a linguagem C#, com explicações e detalhado.
+
 ✅ [Vendas - Utilizando Booleano](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/Vendas%20Utilizando%20Booleano) | Código que simula um controle de estoque de vendas, utilizando a variável booleana possivelvenda.
 
 ✅ [Volgal ou Consoante](https://github.com/Carlos-CGS/ProjetosCSharp/tree/main/Volgal%20ou%20Consoante) | Solicita ao usuário uma letra e imprimi uma mensagem informando se a letra digitada é volgal ou consoante.
