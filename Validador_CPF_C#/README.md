@@ -1,6 +1,6 @@
 # Validador de CPF em C#
 
-- Este trecho de código C# az diversas verificações e informa ce o cpf digitado é válido ou não.
+## Este trecho de código C# executa diversas verificações e informa ce o cpf digitado é válido ou não.
 
 - A primeira etapa de verificação, verifica se o valor digitado é nulo;
 
