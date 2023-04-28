@@ -18,4 +18,4 @@
 
 - Segunda Parte (Segundo Dígito Verificador)
 
-- Caso os dois testes retornem positivo, a classe validar CPF na classe main retorna o texto informando se é valido ou não.
+- Caso os dois testes retornem verdadeiro, o método validar_CPF na classe main retorna um texto, informando se é valido ou não.
