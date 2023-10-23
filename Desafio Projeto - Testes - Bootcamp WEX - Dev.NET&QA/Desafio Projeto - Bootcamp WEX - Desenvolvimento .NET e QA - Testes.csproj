@@ -1,9 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>Desafio_Projeto___Bootcamp_WEX___Desenvolvimento_.NET_e_QA___Testes</RootNamespace>
-  </PropertyGroup>
-
-</Project>
