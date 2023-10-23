@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio Projeto - Bootcamp WEX - Desenvolvimento .NET e QA - Testes", "Desafio Projeto - Bootcamp WEX - Desenvolvimento .NET e QA - Testes.csproj", "{6BBBFF3F-AC3E-4CAA-BFB1-4E7670F46080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste-Projeto-Bootcamp WEX - Desenvolvimento .NET e QA", "..\Teste-Projeto-Bootcamp WEX - Desenvolvimento .NET e QA\Teste-Projeto-Bootcamp WEX - Desenvolvimento .NET e QA.csproj", "{B514056A-6097-4BEC-862A-78FFCAA661B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BBBFF3F-AC3E-4CAA-BFB1-4E7670F46080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BBBFF3F-AC3E-4CAA-BFB1-4E7670F46080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BBBFF3F-AC3E-4CAA-BFB1-4E7670F46080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BBBFF3F-AC3E-4CAA-BFB1-4E7670F46080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B514056A-6097-4BEC-862A-78FFCAA661B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B514056A-6097-4BEC-862A-78FFCAA661B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B514056A-6097-4BEC-862A-78FFCAA661B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B514056A-6097-4BEC-862A-78FFCAA661B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA292675-0A4F-41F9-9169-0F5B2C59A30B}
+	EndGlobalSection
+EndGlobal
