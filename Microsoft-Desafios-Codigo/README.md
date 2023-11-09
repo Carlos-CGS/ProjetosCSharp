@@ -1,6 +1,6 @@
 # Desafios Código Microsoft:
 
-### Projeto guiado – Calcular e imprimir notas dos alunos
+## Projeto guiado – Calcular e imprimir notas dos alunos
 
 - Você está desenvolvendo um aplicativo de Notas de Alunos que automatiza o cálculo das notas atuais de cada aluno de uma classe. Os parâmetros do aplicativo são os seguintes:
 
@@ -24,7 +24,7 @@ Nicolas     83.6  B\
 Zahirah     83.4  B\
 Jeong       95.4  A
 
-### Projeto guiado – Calcular GPA final
+## Projeto guiado – Calcular GPA final
 
 - Você está desenvolvendo uma Calculadora de GPA do Aluno que ajudará a calcular a média geral de notas dos alunos. Os parâmetros para o aplicativo são os seguintes:
 
