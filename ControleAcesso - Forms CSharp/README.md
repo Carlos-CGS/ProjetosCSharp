@@ -7,6 +7,5 @@
  - Antes de iniciar ele apresenta uma tela splash de carregamento e interatividade com botões.
  - O aplicativo esta com algumas funcionalidades de buscas incompletas, assim como alguns botões
  - Porém faz o registro estático de visitantes enquanto o app está aberto conforme prints de tela abaixo:
-<video src="videoApp_2019.mp4">
 <img src="login.png">
 <img src="cadastro.png">
