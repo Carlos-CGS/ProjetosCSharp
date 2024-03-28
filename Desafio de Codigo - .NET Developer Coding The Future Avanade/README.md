@@ -43,7 +43,7 @@ Lista de itens:
 
 # Desafios de Código Intermediário C# - Coding The Future Avanade II- .NET Developer - DIO
 
-## Desafios de Código Coding The Future Avanade ll - Calculando o Dano
+## Desafio 1 - Desafios de Código Coding The Future Avanade ll - Calculando o Dano
 >Em jogos de RPG, é comum haver ações de ataque dos personagens, que causam um certo dano ao inimigo. Este dano pode ser calculado de diferentes formas, dependendo do sistema do jogo. Neste desafio, você deve criar uma função que calcula o dano de um ataque, levando em consideração o valor do ataque e a defesa do inimigo.
 
 - Crie uma função chamada "calcular_dano" que recebe dois parâmetros: "ataque" e "defesa". A função deve retornar o valor do dano causado pelo ataque, utilizando a seguinte fórmula:
@@ -62,7 +62,7 @@ Lista de itens:
 
 - Saída: O dano causado pelo ataque foi: 2
 
-## Desafios de Código Coding The Future Avanade ll - O Guardião dos Atributos
+## Desafio 2 - Desafios de Código Coding The Future Avanade ll - O Guardião dos Atributos
 > Em jogos de RPG, os personagens possuem atributos que determinam suas habilidades em diferentes áreas, como força, agilidade, inteligência, etc. Neste desafio, você deve criar uma função que verifica se o valor de um determinado atributo está dentro de um intervalo aceitável.
 
 > Crie uma função chamada "verificar_atributo" que recebe três parâmetros: "atributo", "valor_minimo" e "valor_maximo". A função deve verificar se o valor do atributo está dentro do intervalo definido pelos valores mínimo e máximo.
@@ -75,7 +75,7 @@ Caso o valor esteja dentro do intervalo, a função deve retornar true. Caso con
 - Entrada:	força   /   1   /   10   /   7
 - Saída: O valor do atributo está dentro do intervalo especificado
 
-## Desafios de Código Coding The Future Avanade ll - Validando a Força de Senhas no IAM
+## Desafio 3 - Desafios de Código Coding The Future Avanade ll - Validando a Força de Senhas no IAM
 > Você está trabalhando para uma empresa que utiliza extensivamente os serviços da AWS, e após algumas análises a equipe de segurança identificou que algumas senhas dos usuários no IAM são fracas e podem representar um risco à segurança dos dados da empresa. Para resolver esse problema, foi solicitado que você desenvolva um programa capaz de analisar as senhas dos usuários e fornecer uma validação de força com base em critérios predefinidos.
 
 - Requisitos de segurança para a senha:
@@ -96,7 +96,7 @@ Caso o valor esteja dentro do intervalo, a função deve retornar true. Caso con
 
 # Desafios de Código Intermediário C# - Coding The Future Avanade III- .NET Developer - DIO
 
-## Desafios de Código Coding The Future Avanade lll - Item Mágico!
+## Desafio 1 - Desafios de Código Coding The Future Avanade lll - Item Mágico!
 > Em jogos de RPG, os jogadores frequentemente adquirem itens mágicos que possuem poderes e habilidades especiais. Neste desafio, você deve criar uma classe "ItemMagico" que represente um item mágico e seja capaz de armazenar o nome, descrição e poder do item.
 
 > Crie a classe "ItemMagico" que possua os seguintes atributos: "nome", "descricao" e "poder". Além disso, a classe deve ter um método chamado "criar", que recebe como argumento os valores do nome, descrição e poder do item, respectivamente.
@@ -117,7 +117,7 @@ Caso o valor esteja dentro do intervalo, a função deve retornar true. Caso con
 - Entrada:	Espada Flamejante   /   Uma espada de fogo!   /   50
 - Saída: Nome: Espada Flamejante   /   Descrição: Uma espada de fogo!   /   Poder: 50
 
-## Desafios de Código Coding The Future Avanade lll - Construindo um Exército de Robôs
+## Desafio 2 - Desafios de Código Coding The Future Avanade lll - Construindo um Exército de Robôs
 > Você é um inventor de robôs excêntrico e engraçado, que decidiu criar seu próprio exército de robôs para ajudá-lo em suas tarefas diárias. Para isso, você precisa desenvolver uma classe Robô que permita que cada um dos seus robôs tenha características únicas. Crie seu próprio robô personalizado, escolhendo seu nome, modelo e ano de fabricação, e veja seu exército de robôs engraçados tomar forma diante dos seus olhos!
 
 > Você precisa criar uma classe Robo que possua um construtor que inicialize a classe com as características do robô (nome, modelo e ano de fabricação). Além disso, você precisa implementar métodos para exibir as características do robô.
@@ -141,7 +141,7 @@ IMPORTANTE: A entrada deverá seguir a ordem informada acima.
 - Entrada:	Robozão   /   RBZ1000   /   2022
 - Saída: O robô Robozão, modelo RBZ1000, foi fabricado em 2022.
 
-## Desafios de Código Coding The Future Avanade lll - Descubra a Carta
+## Desafio 3 - Desafios de Código Coding The Future Avanade lll - Descubra a Carta
 
 > Nesse desafio, você deverá criar um programa que permita ao usuário escolher o valor e o naipe de uma carta de baralho, e exibir a carta escolhida.
 
