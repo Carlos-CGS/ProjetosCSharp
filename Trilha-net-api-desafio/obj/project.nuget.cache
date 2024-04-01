@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "k9vmd+DSyTmE8W6VpXOkXN9LoJCVZeoC1ulfxc1SMlHZGFvwvc4dUAb+fFttlTZLy2Z70shxoxfOBlkA3+sJXw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\CG\\Desktop\\workspace\\trilha-net-api-desafio\\TrilhaApiDesafio.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Não é possível carregar o índice de serviço para a origem https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Design"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Não é possível carregar o índice de serviço para a origem https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer"
+    }
+  ]
+}
