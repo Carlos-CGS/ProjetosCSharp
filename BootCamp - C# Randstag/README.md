@@ -4,7 +4,7 @@ Programa intensivo focado em C#, .NET, banco de dados e boas práticas de progra
 
 Segue também contracapa que criei com todos os cursos e módulos deste bootcamp para ser impresso na parte de tras do seu certificado!
 
-<img src="randstad.png">
+<img src="Randstad.png">
 
 <hr><hr>
 
